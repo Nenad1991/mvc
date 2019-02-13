@@ -1,0 +1,89 @@
+[33mcommit 29e5f296c52d7b49668f56709c33a9bb3e58be12[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 14:16:33 2019 +0100
+
+    Deleting directory level1
+
+[33mcommit 99494b1249eec0138c68375048dc6872b99078ac[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 14:11:48 2019 +0100
+
+    Deleting file
+
+[33mcommit 4a06f922c7a2d23c9016e6e30628fdb12d049eb1[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 13:54:47 2019 +0100
+
+    Deleting newfile.txt
+
+[33mcommit 2d85394022dc0d6b96c559cf2e17b2f0a8b6c66c[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 13:35:23 2019 +0100
+
+    Renaming file to level1.txt
+
+[33mcommit bb83df301e4446f0cf84830dc4145b6432494ac3[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 13:17:43 2019 +0100
+
+    moving file to level 2
+
+[33mcommit 9bda09cbbafeb7cc970fe204e2f1d6e3f8715726[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 13:13:41 2019 +0100
+
+    move file
+
+[33mcommit df1112a867e942ab40f30ed89cb4d3b9f8bbc4e1[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 12:57:24 2019 +0100
+
+    Rename file
+
+[33mcommit 0aca1dec7b8ce1312d75d2e8477f47b89ee38ca3[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 12:46:58 2019 +0100
+
+    renaming file
+
+[33mcommit 83bc6c80caae6014c7a72fb1b6347a965bdaca9e[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 11:22:47 2019 +0100
+
+    Adding text
+
+[33mcommit e093706882d6e59034b742fc856a2915a4224f79[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Wed Feb 13 11:04:39 2019 +0100
+
+    adding level 1234 files
+
+[33mcommit b023e2a70e864734e3dc4750f3bddff959bf0fc1[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Tue Feb 12 19:54:09 2019 +0100
+
+    Some text0
+
+[33mcommit ebc5b0f3e952680e2390658d36bb41c0891e2aa8[m
+Author: Nenad Vukmirovic <nvukmirovicnv@gmail.com>
+Date:   Tue Feb 12 19:17:37 2019 +0100
+
+    Adding more text
+
+[33mcommit 45f3b47273866e0eaadceeb9924f9fd6ab92b33b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Marco Roganovic <marcoroganovic@gmail.com>
+Date:   Sat Feb 9 10:39:07 2019 +0100
+
+    tweak readme
+
+[33mcommit 9b1c7d8651d188a0dc468893c83e2e7ca3022fd3[m
+Author: Marco Roganovic <marcoroganovic@gmail.com>
+Date:   Sat Feb 9 10:38:28 2019 +0100
+
+    add readme
+
+[33mcommit 322cbf7279a94a3f3c34e9125448ef9d1fe457d2[m
+Author: Marco Roganovic <marcoroganovic@gmail.com>
+Date:   Sat Feb 9 10:35:29 2019 +0100
+
+    initial commit
