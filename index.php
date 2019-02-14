@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-include "./utils/sessions.php";
+include "./utils/sessions_1.php";
 include "./utils/helpers.php";
 include "./utils/path-to-regex.php";
 include "./app/router.php";
