@@ -5,7 +5,5 @@ enter the following command (make sure you have PHP CLI installed).
 php -S localhost:3000
 
 
-Add new text
-
 
 ```
